@@ -1,4 +1,4 @@
-# Interface of Expense Tracker
+# Expense Tracker
 
 ![Interface of Expense Tracker](Expense.png)
 
