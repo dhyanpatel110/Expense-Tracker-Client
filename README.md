@@ -5,13 +5,20 @@ We can Track out day to day expense, investment and savings
 
 ![Interface of Expense Tracker](Expense.png)
 
-# Expense Tracker React
+# Demo
 
-## Description
+[Delta - Live ◀️](https://expense-tracker-dhyanpatel110.vercel.app/)
 
-Setup Procedure
 
 ## Project setup
+
+### Clone this repo
+
+```
+git clone https://github.com/dhyanpatel110/Delta.git
+```
+
+### Install dependencies
 
 ```
 npm install
