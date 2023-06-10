@@ -15,7 +15,8 @@ We can Track out day to day expense, investment and savings
 ### Clone this repo
 
 ```
-git clone https://github.com/dhyanpatel110/Delta.git
+git clone https://github.com/dhyanpatel110/Expense-Tracker-Client.git
+
 ```
 
 ### Install dependencies
