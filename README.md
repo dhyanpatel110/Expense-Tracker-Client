@@ -1,4 +1,7 @@
 # Expense Tracker
+We can Track out day to day expense, investment and savings
+
+# Snapshot
 
 ![Interface of Expense Tracker](Expense.png)
 
