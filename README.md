@@ -1,4 +1,4 @@
-# Expense Tracker
+# Expense Tracker ![GitHub repo size](https://img.shields.io/github/repo-size/dhyanpatel110/Expense-Tracker-Client)
 We can Track out day to day expense, investment and savings
 
 # Snapshot
