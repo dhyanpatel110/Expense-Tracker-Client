@@ -16,7 +16,6 @@ We can Track out day to day expense, investment and savings
 
 ```
 git clone https://github.com/dhyanpatel110/Expense-Tracker-Client.git
-
 ```
 
 ### Install dependencies
