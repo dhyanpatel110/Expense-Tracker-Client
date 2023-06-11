@@ -7,7 +7,7 @@ We can Track out day to day expense, investment and savings
 
 # Demo
 
-[Delta - Live ◀️](https://expense-tracker-dhyanpatel110.vercel.app/)
+[Expense-Tracker - Live ◀️](https://expense-tracker-dhyanpatel110.vercel.app/)
 
 
 ## Project setup
